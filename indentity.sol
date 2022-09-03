@@ -20,3 +20,5 @@ contract Identity {
         //trae la direccion de quien llama el contrato
     }
 }
+
+// NOTA : estas variables de estado deberan ser inicializadas dento del menu del deploy antes de hacer el deploy!
